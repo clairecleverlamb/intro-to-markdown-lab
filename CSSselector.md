@@ -1,7 +1,5 @@
 # 🏗️ The Anatomy of a CSS Selector
 
-![CSS Visual Guide](https://media.istockphoto.com/id/1152373320/photo/magnifying-glass-with-search-word-on-chalkboard-background-3d-rendering.jpg?s=612x612&w=0&k=20&c=s3p-3c29ucu6aYWyL8vsRLkNMhGjTQZUzQn1oey8eCs=)
-
 CSS selectors are patterns used to select and style elements on a webpage. Understanding them helps you write cleaner, more efficient, and maintainable styles. 
 
 ---
